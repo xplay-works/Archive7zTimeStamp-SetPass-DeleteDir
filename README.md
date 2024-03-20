@@ -4,8 +4,9 @@ Add a context menu entry for folders to Windows explorer.
 
 This lets you create a timestamped archive of a folder with two clicks.
 
-Plus -sdel (Delete folder after compression) switch syntax.
--p (set Password) switch
+Plus:
+* -sdel (Delete folder after compression) switch syntax.
+* -p (set Password) switch syntax.
 
 Syntax: 
 ```
@@ -17,7 +18,7 @@ compresses dir to dir[archive timestamp].7z using password "secret". Also it enc
 
 # IDEA
 * :vulcan_salute: https://github.com/timosperisen
-* https://documentation.help/7-Zip/start.htm
+* :open_book: https://documentation.help/7-Zip/start.htm
 
 # PREREQUISITES
 You will need
