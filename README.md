@@ -8,7 +8,8 @@ Plus -sdel (Delete folder after compression) switch syntax.
 -p (set Password) switch
 
 Syntax
-* -psecret -mhe
+-psecret -mhe
+
 compresses dir to dir[archive timestamp].7z using password "secret". Also it encrypts archive headers (-mhe switch), so filenames will be encrypted.
 
 
